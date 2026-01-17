@@ -1,3 +1,3 @@
 from swapping import swap
 def test_swap():
-    assert swap(5, 10) == (10, 5)
+    assert swap(50, 10) == (10, 50)
