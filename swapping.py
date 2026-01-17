@@ -5,4 +5,4 @@ def swap(a, b):
     return a, b
 
 if __name__ == "__main__":
-    print(swap(5,10))
+    print(swap(50,10))
